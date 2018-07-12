@@ -1,4 +1,4 @@
 Graham Antoszewski, 7/12/18
 
 Plans for different analytics:
-1. Create a statistics to evaluate scoring ability
+1. Create a statistics to evaluate scoring ability of guards
