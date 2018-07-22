@@ -1,5 +1,4 @@
-Graham Antoszewski, 7/12/18
-Also refresing on branhing/merging codes
+Graham Antoszewski, 7/22/18
 
 Plans for different analytics:
-1. Create a statistics to evaluate scoring ability of guards
+1. Create a statistic to evaluate scoring ability of guards
